@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/ae2c1058-c624-48d6-b58e-bf7ef2d734a7
 
 1. Clone repository.
     ```bash
-    git clone https://github.com/noczero/car-components-multi-labels-classification.git
+    git clone git@github.com:noczero/car-state-components-multi-labels-classification.git
     cd car-components-multi-labels-classification
     ```
    
@@ -80,7 +80,7 @@ This guide helps resolve common issues encountered during the setup and operatio
 * **Solution:**
     * Ensure you have `git` installed on your system. You can check by running `git --version`. If not installed, download and install it from [git-scm.com](https://git-scm.com/).
     * Verify your internet connection.
-    * Check if the repository URL `https://github.com/noczero/car-components-multi-labels-classification.git` is correct and accessible.
+    * Check if the repository URL `https://github.com/noczero/car-state-components-multi-labels-classification.git` is correct and accessible.
 
 **Problem: Python version mismatch or `pip` command not found.**
 * **Solution:**
