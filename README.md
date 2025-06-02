@@ -7,6 +7,16 @@ a car by analyzing a real-time 3D web interface.
 Starting from build datasets, train classifier model, fine-tune vision language model, 
 develop backend application, and develop single page applications.
 
+## Demo 
+- Car State Components Classifier App
+
+https://github.com/user-attachments/assets/ae2c1058-c624-48d6-b58e-bf7ef2d734a7
+
+- Car State Components Explainer App
+
+<img width="1912" alt="Screenshot 2025-06-02 at 23 21 27" src="https://github.com/user-attachments/assets/2e11c140-317c-4a1c-8749-7deb2bac3f36" />
+
+
 ## Installation
 ### Prerequisites
 
