@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/ae2c1058-c624-48d6-b58e-bf7ef2d734a7
 1. Clone repository.
     ```bash
     git clone git@github.com:noczero/car-state-components-multi-labels-classification.git
-    cd car-components-multi-labels-classification
+    cd car-state-components-multi-labels-classification
     ```
    
 2. Install dependencies
