@@ -14,7 +14,8 @@ https://github.com/user-attachments/assets/ae2c1058-c624-48d6-b58e-bf7ef2d734a7
 
 - Car State Components Explainer App
 
-<img width="1912" alt="Screenshot 2025-06-02 at 23 21 27" src="https://github.com/user-attachments/assets/2e11c140-317c-4a1c-8749-7deb2bac3f36" />
+https://github.com/user-attachments/assets/7b39bd58-ef40-4d5e-9a5a-1e7fb069d74f
+
 
 
 ## Installation
